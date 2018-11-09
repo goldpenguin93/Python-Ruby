@@ -15,11 +15,9 @@ According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, a
 
 
 
-
-
-
-
-
  <h2>Reference site<h2> 
  https://opentutorials.org/course/1
+ 
+ 
+ 
  https://www.wikipedia.org/
