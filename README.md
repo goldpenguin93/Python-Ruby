@@ -7,6 +7,11 @@
 
 
 
+
+
+
+
+
 <h2>Python</h2>
 Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales. In July 2018, Van Rossum stepped down as the leader in the language community after 30 years.
 
@@ -44,8 +49,21 @@ Due to Python's extensive mathematics library, and the third-party library NumPy
 
 
 
-![1](https://user-images.githubusercontent.com/31435126/49341256-20bf5880-f68e-11e8-972a-98451f5344ee.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+![ruby-language-1024x576](https://user-images.githubusercontent.com/31435126/49341330-49941d80-f68f-11e8-863e-cec6933a1958.png)
 
 
 
