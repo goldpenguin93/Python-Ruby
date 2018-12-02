@@ -1,5 +1,10 @@
 # Python-Ruby
 
+
+![default](https://user-images.githubusercontent.com/31435126/49341251-1735f080-f68e-11e8-99fb-809c1f38a258.png)
+
+
+
 <h2>Python</h2>
 Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales. In July 2018, Van Rossum stepped down as the leader in the language community after 30 years.
 
@@ -31,6 +36,9 @@ Python allows boolean expressions with multiple equality relations in a manner t
 Python has extensive built-in support for arbitrary precision arithmetic. Integers are transparently switched from the machine-supported maximum fixed-precision (usually 32 or 64 bits), belonging to the python type int, to arbitrary precision, belonging to the Python type long, where needed. The latter have an "L" suffix in their textual representation.(In Python 3, the distinction between the int and long types was eliminated; this behavior is now entirely contained by the int class.) The Decimal type/class in module decimal (since version 2.4) provides decimal floating point numbers to arbitrary precision and several rounding modes.The Fraction type in module fractions (since version 2.6) provides arbitrary precision for rational numbers.
 Due to Python's extensive mathematics library, and the third-party library NumPy that further extends the native capabilities, it is frequently used as a scientific scripting language to aid in problems such as numerical data processing and manipulation.[citation needed]
 
+
+
+![1](https://user-images.githubusercontent.com/31435126/49341256-20bf5880-f68e-11e8-972a-98451f5344ee.png)
 
 
 <h2>Ruby</h2>
